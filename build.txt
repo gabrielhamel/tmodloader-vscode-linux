@@ -1,0 +1,9 @@
+author = Author's name
+version = 1.0.0
+displayName = ModName
+homepage = https://example.net/
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, obj/*, bin/*, .git/*
+includePDB = true
